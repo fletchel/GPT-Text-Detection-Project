@@ -6,3 +6,6 @@ The aim of the project was to see in which contexts and under what conditions GP
 
 
 ![InternshipPoster](https://user-images.githubusercontent.com/70916204/137162932-0bfbac32-e606-4838-874c-d9c2ce857cfb.jpg)
+
+
+(note that the training corpora and training data has not been uploaded)
